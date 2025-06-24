@@ -31,7 +31,10 @@ This is a personal game development project focusing on basic scene management, 
 
 ## 🖼️ Screenshots
 
-_Add screenshots here once the game window is ready_
+![Character Selection](CharacterSelection.png)
+![Main Game Scene](MainGameScene.png)
+![Sunflower Attack](SunflowerAttack.png)
+
 
 ---
 
