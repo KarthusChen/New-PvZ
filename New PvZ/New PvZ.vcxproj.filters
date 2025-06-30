@@ -22,6 +22,9 @@
     <Filter Include="Header Files\bullet">
       <UniqueIdentifier>{e4d0d1d6-9040-40e8-8cba-d9ff729036c5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\NewFilter1">
+      <UniqueIdentifier>{eb7709b0-805e-474f-96b1-155453d90ac0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -88,6 +91,12 @@
     </ClInclude>
     <ClInclude Include="sun_bullet_ex.h">
       <Filter>Header Files\bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="status_bar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="particle.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

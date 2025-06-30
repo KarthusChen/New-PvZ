@@ -1,5 +1,11 @@
+# Ignore Visual Studio temporary files, build results, and other artifacts
 .vs/
-bin/
-obj/
 *.user
 *.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.log
+x64/
+Debug/
+Release/
